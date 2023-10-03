@@ -15,11 +15,11 @@
       <Circle fx:id="ph1" fill="DODGERBLUE" layoutX="224.0" layoutY="37.0" radius="19.0" stroke="BLACK" strokeType="INSIDE" />
       <Circle fx:id="ph2" fill="DODGERBLUE" layoutX="311.0" layoutY="68.0" radius="19.0" stroke="BLACK" strokeType="INSIDE" />
       <Circle fx:id="ph5" fill="DODGERBLUE" layoutX="105.0" layoutY="175.0" radius="19.0" stroke="BLACK" strokeType="INSIDE" />
-      <Text layoutX="221.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1" />
-      <Text layoutX="308.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2" />
-      <Text layoutX="340.0" layoutY="161.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3" />
-      <Text layoutX="221.0" layoutY="280.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4" />
-      <Text layoutX="102.0" layoutY="179.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5" />
+      <Text fill="WHITE" layoutX="221.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1" />
+      <Text fill="WHITE" layoutX="308.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2" />
+      <Text fill="WHITE" layoutX="340.0" layoutY="161.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3" />
+      <Text fill="WHITE" layoutX="221.0" layoutY="280.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4" />
+      <Text fill="WHITE" layoutX="102.0" layoutY="179.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5" />
       <Button layoutX="34.0" layoutY="421.0" mnemonicParsing="false" onAction="#run" text="Начать" />
       <TextArea fx:id="log" layoutX="434.0" layoutY="234.0" prefHeight="244.0" prefWidth="360.0" />
       <Button layoutX="98.0" layoutY="421.0" mnemonicParsing="false" onAction="#reset" text="Сброс" />
